@@ -1,7 +1,7 @@
 const resources_ca = {
   pageTitle: "Manifesto",
   logoAlt: "Logotip de la marca",
-  roductName: "The Defaced Robe",
+  productName: "The Defaced Robe",
   imageAlt: "Foto de l'article",
   menuItems: [
     "Codi del producte",

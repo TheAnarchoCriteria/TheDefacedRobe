@@ -1,7 +1,7 @@
 const resources_ja = {
   pageTitle: "Manifesto",
   logoAlt: "ブランドのロゴ",
- roductName: "The Defaced Robe",
+ productName: "The Defaced Robe",
   imageAlt: "アイテムの写真",
   menuItems: [
     "商品コード",

@@ -1,7 +1,7 @@
 const resources_ko = {
   pageTitle: "Manifesto",
   logoAlt: "브랜드 로고",
-  roductName: "The Defaced Robe",
+  productName: "The Defaced Robe",
   imageAlt: "항목 사진",
   menuItems: [
     "제품 코드",

@@ -1,7 +1,7 @@
 const resources_de = {
   pageTitle: "Manifesto",
   logoAlt: "Logo der Marke",
-  roductName: "The Defaced Robe",
+  productName: "The Defaced Robe",
   imageAlt: "Foto des Artikels",
   menuItems: [
     "Produktcode",
