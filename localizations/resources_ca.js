@@ -1,7 +1,7 @@
 const resources_ca = {
   pageTitle: "Manifesto",
   logoAlt: "Logotip de la marca",
-  productName: "Faldilla amb secrets",
+  roductName: "The Defaced Robe",
   imageAlt: "Foto de l'article",
   menuItems: [
     "Codi del producte",
