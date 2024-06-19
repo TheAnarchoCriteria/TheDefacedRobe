@@ -1,7 +1,7 @@
 const resources_en = {
   pageTitle: "Manifesto",
   logoAlt: "Brand logo",
-  productName: "The Defaced Robe",
+  productName: "Grandma Faraday's bag",
   imageAlt: "Photo of the item",
   menuItems: [
     "Product code",
@@ -12,7 +12,7 @@ const resources_en = {
     "Contact Me"
   ],
   info1: [
-    "M-0001019",
+    "M-000109",
     "Uploaded on the blockchain: 21/03/2024",
     "Blockchain transaction ID:",
     "44e25bc0ed840f9bf0e58d6227db15192d5b89e79ba4304da16b09703f68ceaf"
@@ -28,10 +28,10 @@ const resources_en = {
     "Dry Clean with Tetrachloroethylene"
   ],
   info4: [
-    "Step 1. Fiber: Porto, Portugal",
-    "Step 2. Dye:  Porto, Portugal",
+    "Step 1. Fiber: Diyarbakır, Turkey",
+    "Step 2. Dye:  Denizli, Turkey",
     "Step 3. Tailoring: Barcelona, España",
-    "Step 4. Quality control: Barcelona, España",
+    "Step  4. Quality control: Barcelona, España",
     "Step 5. Labeling and packaging: Barcelona, España"
   ],
   info5: [

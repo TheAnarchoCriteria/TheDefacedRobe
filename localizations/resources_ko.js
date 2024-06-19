@@ -1,7 +1,7 @@
 const resources_ko = {
   pageTitle: "선언문",
   logoAlt: "브랜드 로고",
-  productName: "The Defaced Robe",
+  productName: "Grandma Faraday's bag",
   imageAlt: "상품 사진",
   menuItems: [
     "제품 코드",
@@ -12,7 +12,7 @@ const resources_ko = {
     "문의하기"
   ],
   info1: [
-    "M-0001019",
+    "M-000109",
     "블록체인에 업로드 됨: 2024/03/21",
     "블록체인 거래 ID:",
     "44e25bc0ed840f9bf0e58d6227db15192d5b89e79ba4304da16b09703f68ceaf"
@@ -28,8 +28,8 @@ const resources_ko = {
     "테트라클로로에틸렌으로 드라이클리닝"
   ],
   info4: [
-    "1단계. 섬유: 포르투, 포르투갈",
-    "2단계. 염색: 포르투, 포르투갈",
+    "1단계. 섬유: 디야르바키르, 터키",
+    "2단계. 염색: 데니즐리, 터키",
     "3단계. 재봉: 바르셀로나, 스페인",
     "4단계. 품질 관리: 바르셀로나, 스페인",
     "5단계. 라벨링 및 포장: 바르셀로나, 스페인"
